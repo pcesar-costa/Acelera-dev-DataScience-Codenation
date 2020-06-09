@@ -55,7 +55,7 @@ Este repositório tem como objetivo compartilhar minha experiência no acelera-d
 * [http://tylervigen.com/spurious-correlations](http://tylervigen.com/spurious-correlations)
 
 ### Semana 4
-* [Probability Theory Review for Machine Learning](hhttps://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) 
+* [Probability Theory Review for Machine Learning](https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf) 
 * [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/)
 * [Probability Distribution](https://en.wikipedia.org/wiki/Probability_distribution)
 * [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
